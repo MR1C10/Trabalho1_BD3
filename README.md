@@ -8,6 +8,8 @@ Este projeto consiste em um modelo de banco de dados relacional para uma escola,
 - `DB3_ESCOLA.mwb`: Arquivo do MySQL Workbench com o modelo visual do banco de dados.
 - `Modelo.png`: Imagem do diagrama entidade-relacionamento (DER) do banco de dados.
 
+![Modelo.png](Modelo.png)
+
 ## Entidades e Relacionamentos
 
 O banco de dados é composto pelas seguintes tabelas principais:
